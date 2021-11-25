@@ -1,0 +1,16 @@
+C:\Kamil\Kurs_IT\Zajecia 1\Zadania\ProjektCSV\ProjektCSV\bin\Debug\net5.0\ProjektCSV.exe
+C:\Kamil\Kurs_IT\Zajecia 1\Zadania\ProjektCSV\ProjektCSV\bin\Debug\net5.0\ProjektCSV.deps.json
+C:\Kamil\Kurs_IT\Zajecia 1\Zadania\ProjektCSV\ProjektCSV\bin\Debug\net5.0\ProjektCSV.runtimeconfig.json
+C:\Kamil\Kurs_IT\Zajecia 1\Zadania\ProjektCSV\ProjektCSV\bin\Debug\net5.0\ProjektCSV.runtimeconfig.dev.json
+C:\Kamil\Kurs_IT\Zajecia 1\Zadania\ProjektCSV\ProjektCSV\bin\Debug\net5.0\ProjektCSV.dll
+C:\Kamil\Kurs_IT\Zajecia 1\Zadania\ProjektCSV\ProjektCSV\bin\Debug\net5.0\ref\ProjektCSV.dll
+C:\Kamil\Kurs_IT\Zajecia 1\Zadania\ProjektCSV\ProjektCSV\bin\Debug\net5.0\ProjektCSV.pdb
+C:\Kamil\Kurs_IT\Zajecia 1\Zadania\ProjektCSV\ProjektCSV\obj\Debug\net5.0\ProjektCSV.csproj.AssemblyReference.cache
+C:\Kamil\Kurs_IT\Zajecia 1\Zadania\ProjektCSV\ProjektCSV\obj\Debug\net5.0\ProjektCSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kamil\Kurs_IT\Zajecia 1\Zadania\ProjektCSV\ProjektCSV\obj\Debug\net5.0\ProjektCSV.AssemblyInfoInputs.cache
+C:\Kamil\Kurs_IT\Zajecia 1\Zadania\ProjektCSV\ProjektCSV\obj\Debug\net5.0\ProjektCSV.AssemblyInfo.cs
+C:\Kamil\Kurs_IT\Zajecia 1\Zadania\ProjektCSV\ProjektCSV\obj\Debug\net5.0\ProjektCSV.csproj.CoreCompileInputs.cache
+C:\Kamil\Kurs_IT\Zajecia 1\Zadania\ProjektCSV\ProjektCSV\obj\Debug\net5.0\ProjektCSV.dll
+C:\Kamil\Kurs_IT\Zajecia 1\Zadania\ProjektCSV\ProjektCSV\obj\Debug\net5.0\ref\ProjektCSV.dll
+C:\Kamil\Kurs_IT\Zajecia 1\Zadania\ProjektCSV\ProjektCSV\obj\Debug\net5.0\ProjektCSV.pdb
+C:\Kamil\Kurs_IT\Zajecia 1\Zadania\ProjektCSV\ProjektCSV\obj\Debug\net5.0\ProjektCSV.genruntimeconfig.cache
